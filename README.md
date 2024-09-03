@@ -19,7 +19,7 @@ cyberthot BLE is a cutting-edge Bluetooth surveillance tool that leverages the p
 
 ## ☠️ Prerequisites!
 
-You need a Cybershot BLE device and have all the drivers installed. Try this to be sure (I'm using Linux OS):
+You need a ubertooth device and have all the drivers installed. Try this to be sure (I'm using Linux OS):
 
 ```
 ubertooth-util -v
